@@ -1,0 +1,25 @@
+column_name,desc
+stag,Experience (month)
+event,Employee turnover
+gender,"Employee's gender, female(f), or male(m)"
+age,Employee's age (year)
+industry,Employee's Industry
+profession,Employee's profession
+traffic,"From what pipelene employee came to the company:
+1. You contacted the company directly (after learning from advertising, knowing the company's brand, etc.) - advert
+2. You contacted the company directly on the recommendation of your friend - NOT an employee of this company - recNErab
+3. You contacted the company directly on the recommendation of your friend - an employee of this company - referal
+4. You have applied for a vacancy on the job site - youjs
+5. The recruiting agency brought you to the employer - KA
+6. Invited by the Employer, we knew him before the employment - friends
+7. The employer contacted you on the recommendation of a person who knows you - rabrecNErab
+8. The employer reached you through your resume on the job site - empjs"
+coach,Presence of a coach (training) on probation
+head_gender,head (supervisor) gender
+greywage,The salary does not seem to the tax authorities. Greywage in Russia or Ukraine means that the employer (company) pay just a tiny bit amount of salary above the white-wage (white-wage means minimum wage)
+way,Transport
+extraversion,
+independ,
+selfcontrol,
+anxiety,
+novator,
